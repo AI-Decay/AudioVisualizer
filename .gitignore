@@ -10,6 +10,10 @@
 *.dll
 *.dylib
 
+#VisualStudio output 
+.vs/
+out/
+
 # Qt-es
 object_script.*.Release
 object_script.*.Debug
